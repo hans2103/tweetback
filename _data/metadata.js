@@ -4,6 +4,7 @@ let data = {
 	homeUrl: "https://tweets-by.hans2103.nl/",
 };
 
-data.avatar = `https://v1.indieweb-avatar.11ty.dev/${encodeURIComponent(data.homeUrl)}/`;
+//data.avatar = `https://v1.indieweb-avatar.11ty.dev/${encodeURIComponent(data.homeUrl)}/`;
+data.avatar = `/img/QdpcTdz7_normal.jpg`;
 
 module.exports = data;
